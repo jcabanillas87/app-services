@@ -1,6 +1,8 @@
 """
 Startup script for Azure App Service
 """
+export GITHUB_TOKEN="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"
+
 import os
 import sys
 
